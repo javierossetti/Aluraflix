@@ -1,0 +1,28 @@
+.category-section {
+    margin-bottom: 30px;
+    background-color: black;
+    margin-top: 60px;
+  }
+  
+  .category-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left:  2rem;
+    color: #FFFFFF;
+  }
+  
+  .video-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+
+}
+.category-h2 {
+  
+  border-radius: 15px;
+
+}
